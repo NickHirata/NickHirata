@@ -21,6 +21,9 @@
   <a href="https://github.com/NickHirata" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
 
+
+![snake gif](https://github.com/NickHirata/NickHirata/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=footer"/>
 
 
