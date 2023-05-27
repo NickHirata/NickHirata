@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D6EAF2FF&size=35&center=true&vCenter=true&width=1000&lines=Oie%2C+Meu+nome+%C3%A9+Nicole+Hirata+:%29;Tenho+19+anos!;Curso+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Seja%2C+Bem-vindo(a))](https://git.io/typing-svg)
 
 <div align="center" style="display:flex; justify-content:space-beetwen;">
-   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=NickHirata&hide=contribs,stars&count_private=true&show_icons=true&theme=dark">
-   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickHirata&theme=dark">
+   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=NickHirata&hide=contribs,stars&count_private=true&show_icons=true&theme=dark">
+   <img height="230em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickHirata&theme=dark">
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <br>
